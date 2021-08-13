@@ -1,4 +1,5 @@
-# Java Launcher Code Examples
+# JGI's Studies Portfolio
+
 
 ### GitHub repo: [code-examples-java](./README.md)
 
